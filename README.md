@@ -15,7 +15,7 @@ Este proyecto ha sido realizado para la asignatura "Ingeniería de Servicios" en
 Consta de dos partes: la parte de back-end desarrollada con Java y mediante servicios REST y la parte front-end con react.js
 
 ## Tecnologías
-* Se han utilizado los lenguajes Java, JavaScript, y librerías de CSS como tailwind.
+* Se han utilizado los lenguajes Java, JavaScript, y el framework de CSS tailwind.
 * Como tecnologías usadas: servicios REST, HATEOAS, json-patch, tokens JWT y documentación con Open API y Swagger.
 
 ## Instalación
