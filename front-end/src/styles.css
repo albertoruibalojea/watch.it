@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-type {
+    color: black;
+}
+
+.sendURL {
+    width: 3vw;
+}
+
+.contenedorComentarios {
+    display: flex;
+    overflow: auto;
+}
+
+.comentario {
+    flex-shrink: 0;
+}
+
+.ajustarComentarios {
+    align-content: center;
+}
