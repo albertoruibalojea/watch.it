@@ -19,7 +19,7 @@ Consta de dos partes: la parte de back-end desarrollada con Java y mediante serv
 * Como tecnologías usadas: servicios REST, HATEOAS, json-patch, tokens JWT y documentación con Open API y Swagger.
 
 ## Instalación
-Para ello, es necesario ejecutar la parte de back-end con el archivo .JAR proporcionado (o crear un nuevo proyecto en IntelliJ IDEA con los archivos), y en la parte de front-end será necesario contar con node.js para poder ejecutar la aplicación.
+Para ello, es necesario ejecutar la parte de back-end con un proyecto en IntelliJ IDEA con los archivos, y en la parte de front-end será necesario contar con node.js para poder ejecutar la aplicación.
 Para conocer más información sobre la parte de back-end, también cuenta con Swagger para así observar los distintos servicios REST con detalle.
 
 ## Características
